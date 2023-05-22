@@ -56,9 +56,6 @@ header img{
     border: .125rem dashed var(--secondary);
 }
 header .img{
-    background-image: url(../img/ag.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
     height: 35rem;
     background-color: var(--secondary);
     top: 0;
