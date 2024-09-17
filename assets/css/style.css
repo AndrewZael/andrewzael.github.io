@@ -149,3 +149,7 @@ header .img div{
         overflow-y: hidden;
     }
 }
+
+.calendar{
+    font-size: 0.8rem;
+}
